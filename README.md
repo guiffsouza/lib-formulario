@@ -1,7 +1,9 @@
 # Package lib-formulario
 
-Uma Lib React para realizar criação de formulario. &nbsp;
-Acesse o [link](https://www.npmjs.com/package/lib-formulario) do repositório do package no site oficial NPM. &nbsp;
+Uma Lib React para realizar criação de formulario.
+&nbsp;
+Acesse o [link](https://www.npmjs.com/package/lib-formulario) do repositório do package no site oficial NPM.
+&nbsp;
 Acesse o [link](https://github.com/guiffsouza/lib-formulario) do repositório do Github.
 
 ## Como usar
@@ -14,7 +16,8 @@ $ npm install lib-formulario
 
 ### Component Input
 
-O Componente `Input` tem os seguintes tipos `'email'`, `'text'`, `'number'`, `'tel'`, `'password'`, `'date'`, `'datetime'` &nbsp;
+O Componente `Input` tem os seguintes tipos `'email'`, `'text'`, `'number'`, `'tel'`, `'password'`, `'date'`, `'datetime'`.
+&nbsp;
 Abaixo um exemplo de uso do componente.
 
 ```
@@ -64,8 +67,10 @@ Você pode passar uma Key `mask={true}` e `valueMask={'tel'}` para criar uma má
 
 ### Component InputList
 
-O Componente `InputList` criar um input com listagem. &nbsp;
-O Componente recebe um array. &nbsp;
+O Componente `InputList` criar um input com listagem.
+&nbsp;
+O Componente recebe um array.
+&nbsp;
 Abaixo um exemplo de como usar o componente.
 
 ```
@@ -101,7 +106,8 @@ O Componente `<InputList/>` recebe os seguintes valores:
 
 ### O Component Button
 
-O Componente `Button` criar um botão. &nbsp;
+O Componente `Button` criar um botão.
+&nbsp;
 Abaixo um exemplo de como usar o componente.
 
 ```
